@@ -31,14 +31,11 @@
 - SentinelOne API – March 2023 
 
     
-<br></br>
+<br>
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="Ebenezer_A_U | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ebenezer-Aibor| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://x.com/Ebenezer_A_U
-[linkedin]:https://www.linkedin.com/in/ebenezer-aibor-454257225/# cyberzeeh
+[linkedin]:https://www.linkedin.com/in/fatimah-eniafe-b9b463219/
