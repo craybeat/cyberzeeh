@@ -18,7 +18,7 @@
  
  - <b> Artificial Intelligence Projects:</b>
 
-  - [Build A Chatbot using IBM WatsonX Assistant](https://github.com/craybeat/IBM_Build_Your_Own_Chatbot)
+    [Build A Chatbot using IBM WatsonX Assistant](https://github.com/craybeat/IBM_Build_Your_Own_Chatbot)
 
 
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
