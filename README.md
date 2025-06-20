@@ -16,7 +16,7 @@
 - <b>Python for cybersecurity threat detection & Automation (Functions,Modules & Packages,Object Oriented Programming(OOP...))</b>
   - [Python Essentials 1 Course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) (STARTED✔)
  
-  <b> Artificial Intelligence Projects:</b>
+ - <b> Artificial Intelligence Projects:</b>
 
   - [Build A Chatbot using IBM WatsonX Assistant](https://github.com/craybeat/IBM_Build_Your_Own_Chatbot)
 
